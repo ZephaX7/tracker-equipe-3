@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className="page">
       <header className="page__entete">
-        <h1>Trackr</h1>
+        <h1>Tracker</h1>
         <p>Tous vos colis, au même endroit.</p>
       </header>
       <main>
