@@ -6,7 +6,6 @@ const classes: Record<Statut, string> = {
   'Livré': 'badge badge--livre',
   'Incident': 'badge badge--incident',
 }
-
 export function BadgeStatut({ statut }: { statut: Statut }) {
   return <span className={classes[statut]}>{statut}</span>
 }
