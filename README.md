@@ -3,7 +3,7 @@ Suivre tous ses colis au même endroit : recherche par numéro de suivi, statut 
  ## Installation 
 Prérequis : Node.js 22 ou plus (`node -v`), Git.
  ```bash 
-git clone https://github.com//trackr-equipe-N.git
+git clone https://github.com/ZephaX7/tracker-equipe-3.git
  cd trackr-equipe-N
  npm install
  npm run dev 
